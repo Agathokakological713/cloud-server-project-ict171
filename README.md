@@ -69,3 +69,13 @@ Process Overview
 •	After purchasing the domain from Namecheap, I updated the DNS settings to point to my EC2 instance’s public IP. I set up an A record to ensure the domain would resolve to the correct IP.
 6.	Automation Script
 •	I created a shell script (setup.sh) that automates the process of setting up Apache, installing SSL certificates, and configuring the firewall. This script simplifies future deployments or re-installations.
+
+🛠️ How to Replicate
+
+Launch Ubuntu EC2 instance
+
+Run install-apache.sh
+
+Upload index.html to /var/www/html/
+
+Set up DNS in Namecheap
