@@ -1,8 +1,13 @@
 STUDENT NAME: Samyukhtha Haryaal
+
 STUDENT ID: 35397098
+
 GITHUB REPOSITORY LINK: https://github.com/Agathokakological713/cloud-server-project-ict171
+
 LIVE SERVER LINK: https://samportfolio.space/
+
 VIDEO EXPLAINER: [Link to your explainer video]
+
 PUBLIC IP ADDRESS: 51.20.227.122
  
 Project Overview
