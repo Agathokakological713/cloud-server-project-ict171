@@ -6,7 +6,7 @@ GITHUB REPOSITORY LINK: https://github.com/Agathokakological713/cloud-server-pro
 
 LIVE SERVER LINK: https://samportfolio.space/
 
-VIDEO EXPLAINER: [Link to your explainer video]
+VIDEO EXPLAINER:
 
 PUBLIC IP ADDRESS: 51.20.227.122
  
@@ -69,5 +69,3 @@ Process Overview
 •	After purchasing the domain from Namecheap, I updated the DNS settings to point to my EC2 instance’s public IP. I set up an A record to ensure the domain would resolve to the correct IP.
 6.	Automation Script
 •	I created a shell script (setup.sh) that automates the process of setting up Apache, installing SSL certificates, and configuring the firewall. This script simplifies future deployments or re-installations.
-![image](https://github.com/user-attachments/assets/5ac939d1-b699-4a03-b5cc-c37ac1720aab)
-
